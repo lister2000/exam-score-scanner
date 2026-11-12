@@ -1,5 +1,16 @@
 # 分数扫描（Exam Score Scanner）
 
+<img width="1079" height="538" alt="reame" src="https://github.com/lister2000/EtherNet-IP-/blob/master/Images/wellcome.jpg" />
+
+
+## 📖 界面预览
+
+| 界面1 | 界面2 | 界面3 |
+| :---: | :---: | :---: |
+| ![分数统计](https://github.com/lister2000/exam-score-scanner/blob/master/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%95%B0.jpg) | ![笔迹学习](https://github.com/lister2000/exam-score-scanner/blob/master/%E7%AC%94%E8%BF%B9%E5%AD%A6%E4%B9%A0.jpg) | ![参数设置](https://github.com/lister2000/exam-score-scanner/blob/master/%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE.jpg) |
+
+
+
 用手机摄像头扫试卷上的**红笔手写分数**，实时框出数字、自动累加总分，并配合语音和音效反馈。全部识别在手机本地完成，不上传任何图片。
 
 > 典型场景：老师批改完一摞试卷，用手机对着卷面逐个分数扫一遍，屏幕实时显示「总分」和「已拍次数」，扫完一个学生的卷子点「下一个学生」，自动结算并开始下一份。
