@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">分数扫描</string>
+    <string name="hint_default">把红笔批改的分数放进取景框，实时跟踪数字，拍好后确认累加</string>
+    <string name="permission_need">需要相机权限才能扫描试卷</string>
+    <string name="learn_back">‹ 返回</string>
+    <string name="learn_hint">白纸上随手写几个数字（个数、顺序、排列都随意）。画面里会实时框出笔迹；对准后点「拍照学习」，再点框改标号。</string>
+    <string name="btn_capture">拍照学习</string>
+    <string name="btn_save">保存学习</string>
+    <string name="btn_retake">重拍</string>
+    <string name="btn_reset_learn">重新学习</string>
+    <string name="btn_go_scan">去统计分数</string>
+    <string name="btn_go_learn">去笔迹学习</string>
+    <string name="btn_shutter">拍照</string>
+    <string name="btn_confirm_shot">拍照确认</string>
+    <string name="btn_add_learn">添加学习</string>
+    <string name="btn_restart">重新开始</string>
+</resources>
